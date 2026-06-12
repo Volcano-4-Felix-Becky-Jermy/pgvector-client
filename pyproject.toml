@@ -1,5 +1,5 @@
 [project]
-name = "pgvector_client"
+name = "pgvector-client"
 version = "0.1.0"
 description = "Shared PostgreSQL helpers for social media vector search"
 readme = "README.md"
