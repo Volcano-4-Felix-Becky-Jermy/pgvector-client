@@ -1,0 +1,8 @@
+pyproject.toml
+src/pgvector-client/__init__.py
+src/pgvector-client/vector_store_factory.py
+src/pgvector_client.egg-info/PKG-INFO
+src/pgvector_client.egg-info/SOURCES.txt
+src/pgvector_client.egg-info/dependency_links.txt
+src/pgvector_client.egg-info/requires.txt
+src/pgvector_client.egg-info/top_level.txt
